@@ -4,4 +4,4 @@
 * Yahoo Finance Quotes - parsing Yahoo Finance website with special package - yfinance. According to the list of tickers, we get a dataframe with quotes for the specified period.
 * Finviz Parser - parsing a Finviz Screener website using the Beautiful Soup module.
 * Finviz Elite Parser - parsing a Finviz Elite website using the Selinium module.
-* CEO Parser - parsing a Reuters website using Selinium module.
+* CEO Parser - parsing a Reuters website using Selinium module([https://www.reuters.com](https://www.reuters.com/)).
