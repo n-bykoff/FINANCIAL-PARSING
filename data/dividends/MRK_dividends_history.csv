@@ -1,0 +1,104 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2021-01-08,2020-11-17,2020-12-14,0.65,"Income, Qualified",Regular,Quarterly,18
+1,2020-10-07,2020-07-28,2020-09-14,0.65,"Income, Qualified",Regular,Quarterly,2
+2,2020-07-07,2020-05-26,2020-06-12,0.65,"Income, Qualified",Regular,Quarterly,5
+3,2020-04-07,2020-01-28,2020-03-13,0.65,"Income, Qualified",Regular,Quarterly,0
+4,2020-01-08,2019-11-19,2019-12-13,0.65,"Income, Qualified",Regular,Quarterly,3
+5,2019-10-07,2019-07-23,2019-09-13,0.65,"Income, Qualified",Regular,Quarterly,4
+6,2019-07-08,2019-05-28,2019-06-14,0.65,"Income, Qualified",Regular,Quarterly,1
+7,2019-04-05,2019-01-29,2019-03-14,0.65,"Income, Qualified",Regular,Quarterly,3
+8,2019-01-08,2018-10-25,2018-12-14,0.65,"Income, Qualified",Regular,Quarterly,43
+9,2018-10-05,2018-07-24,2018-09-14,0.65,"Income, Qualified",Regular,Quarterly,5
+10,2018-07-09,2018-05-22,2018-06-14,0.65,"Income, Qualified",Regular,Quarterly,20
+11,2018-04-06,2018-01-23,2018-03-14,0.65,"Income, Qualified",Regular,Quarterly,2
+12,2018-01-08,2017-11-28,2017-12-14,0.65,"Income, Qualified",Regular,Quarterly,15
+13,2017-10-06,2017-07-25,2017-09-14,0.65,"Income, Qualified",Regular,Quarterly,0
+14,2017-07-10,2017-05-23,2017-06-13,0.65,"Income, Qualified",Regular,Quarterly,5
+15,2017-04-07,2017-02-28,2017-03-13,0.65,"Income, Qualified",Regular,Quarterly,-
+16,2017-01-09,2016-11-22,2016-12-13,0.65,"Income, Qualified",Regular,Quarterly,0
+17,2016-10-07,2016-07-26,2016-09-13,0.65,"Income, Qualified",Regular,Quarterly,11
+18,2016-07-08,2016-05-24,2016-06-13,0.65,"Income, Qualified",Regular,Quarterly,3
+19,2016-04-07,2016-02-23,2016-03-11,0.65,"Income, Qualified",Regular,Quarterly,0
+20,2016-01-08,2015-11-24,2015-12-11,0.65,"Income, Qualified",Regular,Quarterly,3
+21,2015-10-07,2015-07-22,2015-09-11,0.65,"Income, Qualified",Regular,Quarterly,2
+22,2015-07-08,2015-05-26,2015-06-11,0.65,"Income, Qualified",Regular,Quarterly,47
+23,2015-04-08,2015-02-24,2015-03-12,0.65,"Income, Qualified",Regular,Quarterly,0
+24,2015-01-08,2014-11-25,2014-12-11,0.65,"Income, Qualified",Regular,Quarterly,18
+25,2014-10-07,2014-07-23,2014-09-11,0.65,"Income, Qualified",Regular,Quarterly,58
+26,2014-07-08,2014-05-27,2014-06-12,0.65,"Income, Qualified",Regular,Quarterly,6
+27,2014-04-07,2014-02-25,2014-03-13,0.65,"Income, Qualified",Regular,Quarterly,19
+28,2014-01-08,2013-11-26,2013-12-12,0.65,"Income, Qualified",Regular,Quarterly,6
+29,2013-10-07,2013-07-23,2013-09-12,0.65,"Income, Qualified",Regular,Quarterly,2
+30,2013-07-08,2013-05-28,2013-06-13,0.65,"Income, Qualified",Regular,Quarterly,0
+31,2013-04-05,2013-02-26,2013-03-13,0.65,"Income, Qualified",Regular,Quarterly,15
+32,2013-01-08,2012-11-27,2012-12-13,0.65,"Income, Qualified",Regular,Quarterly,-
+33,2012-10-05,2012-07-24,2012-09-13,0.65,"Income, Qualified",Regular,Quarterly,0
+34,2012-07-09,2012-05-22,2012-06-13,0.65,"Income, Qualified",Regular,Quarterly,2
+35,2012-04-06,2012-02-28,2012-03-13,0.65,"Income, Qualified",Regular,Quarterly,0
+36,2012-01-09,2011-11-10,2011-12-13,0.65,"Income, Qualified",Regular,Quarterly,1
+37,2011-10-07,2011-07-26,2011-09-13,0.65,"Income, Qualified",Regular,Quarterly,1
+38,2011-07-08,2011-05-24,2011-06-13,0.65,"Income, Qualified",Regular,Quarterly,1
+39,2011-04-07,2011-02-22,2011-03-11,0.65,"Income, Qualified",Regular,Quarterly,13
+40,2011-01-07,2010-11-23,2010-12-13,0.65,"Income, Qualified",Regular,Quarterly,0
+41,2010-10-07,2010-07-27,2010-09-13,0.65,"Income, Qualified",Regular,Quarterly,6
+42,2010-07-08,2010-05-26,2010-06-11,0.65,"Income, Qualified",Regular,Quarterly,0
+43,2010-04-07,2010-02-23,2010-03-11,0.65,"Income, Qualified",Regular,Quarterly,0
+44,2010-01-08,2009-11-24,2009-12-11,0.65,"Initial, Qualified",Regular,Quarterly,2
+45,2009-10-01,2009-07-28,2009-09-02,0.65,"Income, Qualified",Regular,Quarterly,6
+46,2009-07-01,2009-05-27,2009-06-04,0.65,"Income, Qualified",Regular,Quarterly,17
+47,2009-04-01,2009-02-24,2009-03-04,0.65,"Income, Qualified",Regular,Quarterly,0
+48,2009-01-02,2008-11-25,2008-12-03,0.65,"Income, Qualified",Regular,Quarterly,3
+49,2008-10-01,2008-07-22,2008-09-03,0.65,"Income, Qualified",Regular,Quarterly,3
+50,2008-07-01,2008-05-27,2008-06-04,0.65,"Income, Qualified",Regular,Quarterly,1
+51,2008-04-01,2008-02-26,2008-03-05,0.65,"Income, Qualified",Regular,Quarterly,13
+52,2008-01-02,2007-11-27,2007-12-05,0.65,"Income, Qualified",Regular,Quarterly,0
+53,2007-10-01,2007-07-24,2007-09-05,0.65,"Income, Qualified",Regular,Quarterly,1
+54,2007-07-02,2007-05-22,2007-06-06,0.65,"Income, Qualified",Regular,Quarterly,33
+55,2007-04-02,2007-02-27,2007-03-07,0.65,"Income, Qualified",Regular,Quarterly,18
+56,2007-01-02,2006-11-28,2006-12-06,0.65,"Income, Qualified",Regular,Quarterly,31
+57,2006-10-02,2006-07-25,2006-08-30,0.65,"Income, Qualified",Regular,Quarterly,5
+58,2006-07-03,2006-05-23,2006-05-31,0.65,"Income, Qualified",Regular,Quarterly,0
+59,2006-04-03,2006-02-28,2006-03-08,0.65,"Income, Qualified",Regular,Quarterly,3
+60,2006-01-03,2005-11-22,2005-11-30,0.65,"Income, Qualified",Regular,Quarterly,3
+61,2005-10-03,2005-07-26,2005-08-31,0.65,"Income, Qualified",Regular,Quarterly,1
+62,2005-07-01,2005-05-24,2005-06-01,0.65,"Income, Qualified",Regular,Quarterly,-
+63,2005-04-01,2005-02-22,2005-03-02,0.65,"Income, Qualified",Regular,Quarterly,6
+64,2005-01-03,2004-11-23,2004-12-01,0.65,"Income, Qualified",Regular,Quarterly,1
+65,2004-10-01,2004-07-27,2004-09-01,0.65,"Income, Qualified",Regular,Quarterly,1
+66,2004-07-01,2004-05-25,2004-06-02,0.65,"Income, Qualified",Regular,Quarterly,4
+67,2004-04-01,2004-02-24,2004-03-03,0.65,"Income, Qualified",Regular,Quarterly,1
+68,2004-01-02,2003-11-25,2003-12-03,0.65,"Income, Qualified",Regular,Quarterly,0
+69,2003-10-01,2003-07-22,2003-09-03,0.65,"Income, Qualified",Regular,Quarterly,3
+70,2003-07-01,2003-05-27,2003-06-04,0.65,"Income, Qualified",Regular,Quarterly,0
+71,2003-04-01,2003-02-25,2003-03-05,0.65,"Income, Qualified",Regular,Quarterly,0
+72,2003-01-02,2002-11-26,2002-12-04,0.65,"Income, Qualified",Regular,Quarterly,0
+73,2002-10-01,2002-07-23,2002-09-04,0.65,Income,Regular,Quarterly,0
+74,2002-07-01,2002-05-28,2002-06-05,0.65,Income,Regular,Quarterly,0
+75,2002-04-01,2002-02-26,2002-03-06,0.65,Income,Regular,Quarterly,0
+76,2002-01-02,2001-11-27,2001-12-05,0.65,Income,Regular,Quarterly,-
+77,2001-10-01,2001-07-24,2001-08-30,0.65,Income,Regular,Quarterly,4
+78,2001-07-02,2001-05-22,2001-05-31,0.65,Income,Regular,Quarterly,1
+79,2001-04-02,2001-02-27,2001-03-07,0.65,Income,Regular,Quarterly,23
+80,2001-01-02,2000-11-28,2000-12-06,0.65,Income,Regular,Quarterly,1
+81,2000-10-02,2000-07-25,2000-08-30,0.65,Income,Regular,Quarterly,17
+82,2000-07-03,2000-05-22,2000-05-31,0.65,Income,Regular,Quarterly,22
+83,2000-04-03,2000-02-22,2000-03-01,0.65,Income,Regular,Quarterly,11
+84,2000-01-03,1999-11-23,1999-12-01,0.65,Income,Regular,Quarterly,-
+85,1999-10-01,1999-07-27,1999-09-01,0.65,Income,Regular,Quarterly,0
+86,1999-07-01,1999-05-25,1999-06-02,0.65,Income,Regular,Quarterly,1
+87,1999-04-01,1999-02-23,1999-03-03,0.65,Income,Regular,Quarterly,1
+88,1999-01-04,1998-11-24,1998-12-02,0.65,Income,Regular,Quarterly,0
+89,1998-10-01,1998-07-28,1998-09-02,0.65,Income,Regular,Quarterly,1
+90,1998-07-01,1998-05-26,1998-06-03,0.65,Income,Regular,Quarterly,1
+91,1998-04-01,1998-02-24,1998-03-04,0.65,Income,Regular,Quarterly,2
+92,1998-01-02,1997-11-25,1997-12-03,0.65,Income,Regular,Quarterly,0
+93,1997-10-01,1997-07-22,1997-09-03,0.65,Income,Regular,Quarterly,0
+94,1997-07-01,1997-05-28,1997-06-05,0.65,Income,Regular,Quarterly,0
+95,1997-04-01,1997-02-25,1997-03-05,0.65,Income,Regular,Quarterly,0
+96,1997-01-02,1996-11-26,1996-12-05,0.65,Income,Regular,Quarterly,10
+97,1996-10-01,1996-07-23,1996-09-04,0.65,Income,Regular,Quarterly,0
+98,1996-07-01,1996-05-29,1996-06-06,0.65,Income,Regular,Quarterly,17
+99,1996-04-01,1996-02-27,1996-03-06,0.65,Income,Regular,Quarterly,-
+100,1996-01-02,1995-11-28,1995-12-06,0.65,Income,Regular,Quarterly,0
+101,1995-10-02,1995-07-25,1995-09-05,0.65,Income,Regular,Quarterly,0
+102,1995-07-03,1995-05-23,1995-06-02,0.65,Income,Regular,Quarterly,0

@@ -1,0 +1,28 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2020-08-14,2020-06-24,2020-07-15,0.8,Income,Regular,Quarterly,0
+1,2020-05-15,2020-03-18,2020-04-15,0.8,Income,Regular,Quarterly,8
+2,2020-02-14,2019-12-19,2020-01-15,0.8,Income,Regular,Quarterly,1
+3,2019-11-15,2019-09-26,2019-10-16,0.8,Income Regular,Semi,Annually,2
+4,2019-05-15,2019-03-26,2019-04-10,0.8,Income Regular,Semi,Annually,1
+5,2018-11-15,2018-09-27,2018-10-17,0.8,Income Regular,Semi,Annually,15
+6,2018-05-15,2018-03-22,2018-04-11,0.8,Income Regular,Semi,Annually,4
+7,2017-11-15,2017-09-28,2017-10-18,0.8,Income Regular,Semi,Annually,2
+8,2017-05-15,2017-03-23,2017-04-11,0.8,Income Regular,Semi,Annually,7
+9,2016-11-15,2016-09-29,2016-10-19,0.8,Income Regular,Semi,Annually,10
+10,2016-05-13,2016-03-24,2016-04-13,0.8,Income Regular,Semi,Annually,0
+11,2015-11-13,2015-09-24,2015-10-14,0.8,Income Regular,Semi,Annually,6
+12,2015-05-15,2015-03-25,2015-04-08,0.8,Income Regular,Semi,Annually,26
+13,2014-11-17,2014-09-23,2014-10-15,0.8,Income Regular,Semi,Annually,2
+14,2014-05-15,2014-03-27,2014-04-09,0.8,Income Regular,Semi,Annually,0
+15,2013-11-15,2013-09-26,2013-10-09,0.8,Income Regular,Semi,Annually,1
+16,2013-05-15,2013-03-27,2013-04-10,0.8,Income Regular,Semi,Annually,0
+17,2012-11-15,2012-09-27,2012-10-10,0.8,Income Regular,Semi,Annually,4
+18,2012-05-15,2012-03-22,2012-04-11,0.8,Income Regular,Semi,Annually,0
+19,2011-11-15,2011-09-27,2011-10-12,0.8,Income Regular,Semi,Annually,0
+20,2011-05-13,2011-03-24,2011-04-13,0.8,Income Regular,Semi,Annually,0
+21,2010-11-15,2010-09-30,2010-10-13,0.8,Income Regular,Semi,Annually,6
+22,2010-05-14,2010-03-25,2010-04-14,0.8,Income Regular,Semi,Annually,1
+23,2009-11-16,2009-10-01,2009-10-14,0.8,Income,Regular,Annually,18
+24,2008-11-17,2008-09-25,2008-10-08,0.8,Income,Regular,Annually,0
+25,2007-11-15,2007-09-27,2007-10-10,0.8,Income,Regular,Annually,0
+26,2006-11-15,-,2006-10-11,0.8,Income,Regular,Annually,0

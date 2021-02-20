@@ -1,0 +1,48 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2020-09-22,-,2020-09-03,1.1,Income Regular,Semi,Annually,58
+1,2020-03-24,-,2020-03-05,1.1,Income Regular,Semi,Annually,54
+2,2019-09-25,-,2019-09-05,1.1,Income Regular,Semi,Annually,4
+3,2019-03-26,-,2019-03-07,1.1,Income Regular,Semi,Annually,9
+4,2019-01-30,-,2019-01-10,1.1,Special Special,Semi,Annually,-
+5,2018-09-25,-,2018-09-06,1.1,Income Regular,Semi,Annually,9
+6,2018-03-27,-,2018-03-08,1.1,Income Regular,Semi,Annually,24
+7,2017-09-26,-,2017-09-07,1.1,Income Regular,Semi,Annually,75
+8,2017-03-28,-,2017-03-08,1.1,Income Regular,Semi,Annually,7
+9,2016-09-20,-,2016-08-31,1.1,Income Regular,Semi,Annually,4
+10,2016-03-31,-,2016-03-09,1.1,Income Regular,Semi,Annually,0
+11,2015-09-29,-,2015-09-09,1.1,Income Regular,Semi,Annually,5
+12,2015-03-31,-,2015-03-11,1.1,Income Regular,Semi,Annually,7
+13,2014-09-23,-,2014-09-03,1.1,Income Regular,Semi,Annually,-
+14,2014-03-26,-,2014-03-05,1.1,Income Regular,Semi,Annually,19
+15,2013-09-25,-,2013-09-04,1.1,Income Regular,Semi,Annually,3
+16,2013-03-28,-,2013-03-06,1.1,Income Regular,Semi,Annually,-
+17,2012-09-28,-,2012-09-05,1.1,Income Regular,Semi,Annually,1
+18,2012-03-22,-,2012-02-29,1.1,Income Regular,Semi,Annually,-
+19,2011-09-29,-,2011-09-07,1.1,Income Regular,Semi,Annually,0
+20,2011-03-31,-,2011-03-09,1.1,Income Regular,Semi,Annually,15
+21,2010-09-30,-,2010-09-08,1.1,Income Regular,Semi,Annually,0
+22,2010-03-23,-,2010-03-03,1.1,Income Regular,Semi,Annually,0
+23,2009-09-25,-,2009-09-02,1.1,Income Regular,Semi,Annually,1
+24,2009-03-17,-,2009-02-25,1.1,Income Regular,Semi,Annually,9
+25,2008-09-25,-,2008-09-03,1.1,Income Regular,Semi,Annually,13
+26,2008-03-18,-,2008-02-27,1.1,Income Regular,Semi,Annually,0
+27,2007-09-28,-,2007-09-12,1.1,Income Regular,Semi,Annually,1
+28,2007-03-20,-,2007-02-28,1.1,Income Regular,Semi,Annually,8
+29,2006-09-27,-,2006-09-06,1.1,Income Regular,Semi,Annually,43
+30,2006-03-22,-,2006-03-01,1.1,Income Regular,Semi,Annually,0
+31,2005-09-28,-,2005-09-07,1.1,"Income, Qualified Regular",Regular,Annually,2
+32,2005-03-23,-,2005-03-02,1.1,"Income, Qualified Regular",Regular,Annually,1
+33,2004-09-22,-,2004-09-01,1.1,"Income, Qualified Regular",Regular,Annually,1
+34,2004-05-05,-,2004-04-13,1.1,"Income, Qualified Regular",Regular,Annually,89
+35,2003-12-03,-,2003-11-10,1.1,"Income, Qualified Regular",Regular,Annually,15
+36,2003-07-02,-,2003-06-10,1.1,"Income, Qualified Regular",Regular,Annually,0
+37,2002-12-04,-,2002-11-12,1.1,Income Regular,Semi,Annually,3
+38,2002-07-03,-,2002-06-04,1.1,Income Regular,Semi,Annually,-
+39,2001-12-14,-,2001-11-13,1.1,Income Regular,Semi,Annually,0
+40,2001-07-10,-,2001-06-05,1.1,Approximate Dividend Rate,Rate,-,-
+41,2000-07-11,-,2000-06-06,1.1,Approximate Dividend Rate,Rate,-,-
+42,1999-06-09,-,1999-05-11,1.1,Income,Unknown,-,-
+43,1998-06-10,-,1998-05-12,1.1,Income,Unknown,-,-
+44,1997-06-13,-,1997-05-13,1.1,Approximate Dividend Rate,Rate,-,-
+45,1996-06-14,-,1996-05-14,1.1,Income,Unknown,-,-
+46,1995-06-16,-,1995-05-12,1.1,Income,Unknown,-,-

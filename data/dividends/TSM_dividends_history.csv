@@ -1,0 +1,23 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2021-04-15,-,2021-03-17,0.4384,Approximate Dividend Rate,Rate,Quarterly,-
+1,2021-01-14,-,2020-12-17,0.4384,Income,Regular,Quarterly,5
+2,2020-10-15,-,2020-09-17,0.4384,Income,Regular,Quarterly,12
+3,2020-07-16,-,2020-06-18,0.4384,Income,Regular,Quarterly,3
+4,2020-04-16,-,2020-03-19,0.4384,Income,Regular,Quarterly,1
+5,2020-01-16,-,2019-12-19,0.4384,Income,Regular,Quarterly,10
+6,2019-10-17,-,2019-09-19,0.4384,Income,Regular,Quarterly,5
+7,2019-07-18,-,2019-06-24,0.4384,Income,Regular,Quarterly,5
+8,2018-07-19,-,2018-06-25,0.4384,Income,Regular,Annually,17
+9,2017-07-20,-,2017-06-26,0.4384,Income,Regular,Annually,30
+10,2016-07-21,-,2016-06-27,0.4384,Income,Regular,Annually,2
+11,2015-07-23,-,2015-06-29,0.4384,Income,Regular,Annually,167
+12,2014-08-06,-,2014-07-14,0.4384,Income,Regular,Annually,94
+13,2013-07-29,-,2013-07-03,0.4384,Income,Regular,Annually,6
+14,2012-07-30,-,2012-07-05,0.4384,Income,Regular,Annually,26
+15,2011-07-25,-,2011-06-29,0.4384,Income,Regular,Annually,2
+16,2010-07-27,-,2010-07-06,0.4384,Income,Regular,Annually,1
+17,2009-08-14,-,2009-07-15,0.4384,Income,Regular,Annually,1
+18,2008-08-15,-,2008-07-16,0.4384,Income,Regular,Annually,0
+19,2007-07-10,-,2007-06-08,0.4384,Income,Regular,Annually,5
+20,2006-07-19,-,2006-06-20,0.4384,Income,Regular,Annually,7
+21,2005-07-12,-,2005-06-13,0.4384,"Income, Qualified",Regular,Annually,123

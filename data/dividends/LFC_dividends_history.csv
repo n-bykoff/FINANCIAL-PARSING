@@ -1,0 +1,16 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2020-09-02,-,2020-07-06,0.5158,Income,Regular,Annually,0
+1,2019-08-13,-,2019-06-06,0.5158,Income,Regular,Annually,1
+2,2018-08-16,-,2018-06-12,0.5158,Income,Regular,Annually,-
+3,2017-08-11,-,2017-06-13,0.5158,Income,Regular,Annually,23
+4,2016-08-12,-,2016-06-03,0.5158,Income,Regular,Annually,30
+5,2015-08-28,-,2015-06-01,0.5158,Income,Regular,Annually,0
+6,2014-08-29,-,2014-05-30,0.5158,Income,Regular,Annually,2
+7,2013-09-05,-,2013-06-05,0.5158,Income,Regular,Annually,65
+8,2012-08-16,-,2012-05-22,0.5158,Income,Regular,Annually,5
+9,2011-08-31,-,2011-04-26,0.5158,Income,Regular,Annually,-
+10,2010-08-31,-,2010-04-28,0.5158,Income,Regular,Annually,1
+11,2009-08-10,-,2009-04-21,0.5158,Income,Regular,Annually,0
+12,2008-07-18,-,2008-06-02,0.5158,Income,Regular,Annually,0
+13,2007-08-03,-,2007-06-22,0.5158,Income,Regular,Annually,3
+14,2006-08-01,-,2006-05-11,0.5158,Initial,Regular,Annually,0

@@ -1,0 +1,25 @@
+,PAY DATE,DECLARED DATE,EX-DIVIDEND DATE,PAYOUT AMOUNT,QUALIFIED DIVIDEND?,PAYOUT TYPE,FREQUENCY,DAYS TAKEN FOR STOCK PRICE TO RECOVER
+0,2020-08-25,-,2020-08-14,0.5178,Income Regular,Semi,Annually,1
+1,2020-04-07,-,2020-03-27,0.5178,Income Regular,Semi,Annually,1
+2,2019-08-27,-,2019-08-16,0.5178,Income Regular,Semi,Annually,0
+3,2019-04-02,-,2019-03-22,0.5178,Income Regular,Semi,Annually,5
+4,2018-08-28,-,2018-08-17,0.5178,Income Regular,Semi,Annually,1
+5,2018-04-03,-,2018-03-23,0.5178,Income Regular,Semi,Annually,1
+6,2017-08-29,-,2017-08-17,0.5178,Income,Regular,Annually,7
+7,2017-04-04,-,2017-03-23,0.5178,Income,Regular,Annually,2
+8,2016-08-23,-,2016-08-11,0.5178,Income,Regular,Annually,7
+9,2016-03-30,-,2016-03-18,0.5178,Income,Regular,Annually,11
+10,2015-03-31,-,2015-03-19,0.5178,Income,Regular,Annually,1
+11,2014-04-02,-,2014-03-21,0.5178,Income,Regular,Annually,6
+12,2013-04-02,-,2013-03-21,0.5178,Income,Regular,Annually,15
+13,2012-04-03,-,2012-03-22,0.5178,Income,Regular,Annually,7
+14,2011-04-05,-,2011-03-24,0.5178,Income,Regular,Annually,4
+15,2010-04-07,-,2010-03-25,0.5178,Income,Regular,Annually,8
+16,2009-03-31,-,2009-03-19,0.5178,Income,Regular,Annually,4
+17,2008-03-25,-,2008-03-13,0.5178,Income,Regular,Annually,0
+18,2007-03-20,-,2007-03-08,0.5178,Income,Regular,Annually,1
+19,2006-03-21,-,2006-03-09,0.5178,Income,Regular,Annually,4
+20,2005-03-22,-,2005-03-10,0.5178,Income,Regular,Annually,3
+21,2004-03-29,-,2004-03-17,0.5178,"Income, Qualified",Regular,Annually,1
+22,2003-04-07,-,2003-03-26,0.5178,"Income, Qualified",Regular,Annually,5
+23,2002-03-25,-,2002-03-13,0.5178,Income,Regular,Annually,1
